@@ -1,0 +1,1 @@
+This repository demonstrates common C++ errors, specifically out-of-bounds access for vectors and accessing uninitialized elements in maps.  The `bug.cpp` file contains the erroneous code, while `bugSolution.cpp` provides corrected versions.  Understanding these issues is crucial for writing robust and reliable C++ applications.
